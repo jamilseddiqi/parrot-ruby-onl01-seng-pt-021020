@@ -7,3 +7,7 @@
 # return name 
 # end 
   
+def parrot(string="Squawk!")
+  puts "#{string}"
+  "#{string}"
+end
