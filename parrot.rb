@@ -4,6 +4,6 @@
 def parrot(name ="Squawk")
   puts name
 end 
-
+return name 
   
   
